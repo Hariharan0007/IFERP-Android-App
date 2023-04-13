@@ -3,6 +3,8 @@
     <style name="Theme.Irrigo" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
 <!--        <item name="colorPrimary">@color/purple_500</item>-->
+        <item name="android:fontFamily">@font/rathskeller_font</item>
+        <item name="fontFamily">@font/rathskeller_font</item>
         <item name="colorPrimary">#2be0dd</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>
@@ -11,7 +13,7 @@
         <item name="colorSecondaryVariant">@color/teal_700</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
-        <item name="android:statusBarColor">#2be0dd</item>
+        <item name="android:statusBarColor">#167e9e</item>
         <!-- Customize your theme here. -->
     </style>
 </resources>
